@@ -2,9 +2,6 @@
 
 Приложение для инженерных расчетов ширины дорожек (Track Width) с удобным графическим интерфейсом. Разработано на **C# (WPF)** с применением архитектурного паттерна **MVVM**.
 
-![Скриншот приложения](https://github.com/BLIZUK/Track-Width-Calculator/blob/master/image.png)
-
-
 ##  Технологический стек
 *   **Язык:** C# 10.0
 *   **Платформа:** .NET 6 / WPF
@@ -25,3 +22,7 @@
 1. Клонируйте репозиторий.
 2. Откройте `NSA.sln` в Visual Studio.
 3. Нажмите `F5`.
+
+## Пример работы продукта
+
+![Скриншот приложения](https://github.com/BLIZUK/Track-Width-Calculator/blob/master/image.png)
